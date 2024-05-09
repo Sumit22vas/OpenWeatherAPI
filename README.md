@@ -1,6 +1,6 @@
 Get current weather of your city
 
-clone it and run command 
+clone this repo and run command
 
 ```
 pip install -r requirements.txt
